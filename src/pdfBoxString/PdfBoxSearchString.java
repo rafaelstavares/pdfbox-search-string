@@ -18,7 +18,7 @@ import org.apache.pdfbox.text.PDFTextStripper;
  *
  * @author rafael
  */
-public class JDetranCe {
+public class PdfBoxSearchString {
 
     /**
      * @param args the command line arguments
@@ -53,7 +53,7 @@ public class JDetranCe {
         System.out.println("" + num);
     }
 
-    private JDetranCe() {
+    private PdfBoxSearchString() {
     }
 
 }
